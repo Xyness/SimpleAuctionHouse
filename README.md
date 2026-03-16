@@ -1,2 +1,2 @@
 # SimpleAuctionHouse
-Paid Minecraft plugin
+Minecraft plugin, auction house system for servers
